@@ -5,6 +5,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 from threading import Thread, Barrier
 
+#below code was copied from internet source for script run 
+
 def load_proxies(PATH): # for loading the proxies
     return open(PATH).read().split('\n') 
 
@@ -18,12 +20,12 @@ def load_session(url,proxy): # manage each session
     profile.set_preference("network.proxy.ssl_port", port)
     profile.update_preferences()
     
-
+#Below Code Is Copied From Stackoverflow
 def func(barrier):
     
     driver = webdriver.Chrome()
 
-    driver.get("https://github.com/yashu1wwww")  #change to your github url
+    driver.get("https://github.com/xtekky")  #change to your github url
 
     print('wait for others')
     barrier.wait()
@@ -31,7 +33,7 @@ def func(barrier):
     print('click')
     b.click()
 
-number_of_threads = 10 #hoqw much views you want change to your confort
+number_of_threads = 10 #how much views you want change to your confort
 
 barrier = Barrier(number_of_threads)
 
