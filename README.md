@@ -1,6 +1,6 @@
 # Github-Auto-Profile-View-
 Github Auto Profile View Using Selenium With Python Uisng Diff Proxies
-Change your required url in 26th line and change no of profile views in 34 line 
+Change your required url in 28th line and change no of profile views in 36th line 
  
 Then Enter Pip install Proxy in cmd
 
