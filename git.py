@@ -12,7 +12,7 @@ def load_proxies(PATH): # for loading the proxies
 
 def load_session(url,proxy): # manage each session
     proxy,port = proxy.split(':')
-    profile = webdriver.FirefoxProfile()
+    profile = webdriver.Chrome()
     profile.set_preference("network.proxy.type", 1)
     profile.set_preference("network.proxy.http", proxy)
     profile.set_preference("network.proxy.http_port", port)
@@ -26,7 +26,9 @@ def func(barrier):
     driver = webdriver.Chrome()
 
     driver.get("https://github.com/xtekky")  #change to your github url
-
+    time.sleep(20)
+    driver.close()
+    
     print('wait for others')
     barrier.wait()
 
