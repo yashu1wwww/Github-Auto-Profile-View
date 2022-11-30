@@ -4,6 +4,10 @@ Change your required url in 28th line and change no of profile views in 36th lin
  
 Then Enter Pip install Proxy in cmd
 
+👉𝐀𝐟𝐭𝐞𝐫 𝐓𝐰𝐨 𝐨𝐫 𝐦𝐨𝐫𝐞 𝐜𝐨𝐦𝐩𝐢𝐥𝐞 𝐨𝐟 𝐛𝐨𝐭𝐬 𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
+
+https://youtu.be/c9MAJpax5R0
+
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
 
 and enter git.py in cmd or in python idle
