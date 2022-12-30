@@ -10,7 +10,7 @@ https://youtu.be/c9MAJpax5R0
 
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
 
-and enter git.py in cmd or in python idle
+and enter git.py in cmd or in double click on git.py file
 
 After Seeing These Script Don't Believe That My Profile Views Are Auto
 
