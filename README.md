@@ -1,6 +1,6 @@
 # Github-Auto-Profile-View-
 Github Auto Profile View Using Selenium with python
-Change your required url in 14th line and change no of profile views in 36th line 
+Change your required url in 14th line and change no of profile views in 24th line 
 
 https://turbovpn.com/download/windows
 
