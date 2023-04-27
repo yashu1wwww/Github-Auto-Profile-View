@@ -3,7 +3,11 @@ Github Auto Profile View Using Selenium with python
 
 Change the URL you require on the 14th line and update the number of profile views on the 24th line.
 
-Download Turbo VPN for Windows from https://turbovpn.com/download/windows and connect it when you run the bot to hide your location.
+Download Turbo VPN for Windows from
+
+https://turbovpn.com/download/windows 
+
+and connect it when you run the bot to hide your location.
 
 After downloading the chromedriver (https://chromedriver.chromium.org/downloads), extract it to the downloaded folder that matches your Chrome version on your PC.
 
