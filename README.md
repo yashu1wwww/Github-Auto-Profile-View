@@ -1,20 +1,19 @@
 # Github-Auto-Profile-View-
 Github Auto Profile View Using Selenium with python
-Change your required url in 14th line and change no of profile views in 24th line 
 
-https://turbovpn.com/download/windows
+Change the URL you require on the 14th line and update the number of profile views on the 24th line.
 
-download these and connect when you run thr bot to hide the location..
+Download Turbo VPN for Windows from https://turbovpn.com/download/windows and connect it when you run the bot to hide your location.
 
-After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
+After downloading the chromedriver (https://chromedriver.chromium.org/downloads), extract it to the downloaded folder that matches your Chrome version on your PC.
 
-and enter git.py in cmd or in double click on git.py file
+Then, enter "git.py" in the command prompt or double-click on the "git.py" file.
 
-After Seeing These Script Don't Believe That My Profile Views Are Auto
+After seeing this script, don't assume that my profile views are automatically increased.
 
 👉Note:-
 
-👉if your selenium version is in latest version then the code never run
+👉If you have the latest version of Selenium, the code may not run
 
 👉open cmd and enter pip uninstall selenium
 
