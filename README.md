@@ -27,6 +27,12 @@ pip install selenium==4.2.1 or pip install selenium==4.2.0
 
 and hit enter
 
+pip install Thread
+
+pip install Barrier
+
+pip install requests
+
 and
 
 python -c "import selenium; print(selenium.version)"
