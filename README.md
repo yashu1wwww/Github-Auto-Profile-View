@@ -3,7 +3,7 @@ Github Auto Profile View Using Selenium with python
 
 Change the URL you require on the 14th line and update the number of profile views on the 24th line.
 
-Download Turbo VPN for Windows from
+Download Turbo VPN for Windows from(if needed)..
 
 https://turbovpn.com/download/windows 
 
