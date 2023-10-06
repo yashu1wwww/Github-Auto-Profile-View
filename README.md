@@ -1,7 +1,7 @@
 # Github-Auto-Profile-View-
 Github Auto Profile View Using Selenium with python
 
-Change the URL you require on the 14th line and update the number of profile views on the 24th line.
+Change the URL you require on the 14th line and update the number of profile views on the 22th line.
 
 Download Turbo VPN for Windows from(if needed)..
 
@@ -13,7 +13,9 @@ After downloading the chromedriver (https://chromedriver.chromium.org/downloads)
 
 Then, enter "git.py" in the command prompt or double-click on the "git.py" file.
 
-After seeing this script, don't assume that my profile views are automatically increased.
+After seeing this script,
+
+## don't assume that my profile views are automatically increased.
 
 👉Note:-
 
