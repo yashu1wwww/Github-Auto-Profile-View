@@ -5,12 +5,8 @@ import time
 from threading import Thread, Barrier
 import requests
 
-#Below Code Is Copied From Stackoverflow
 def func(barrier):
-    # Get a new proxy from the proxy pool
-    proxy = requests.get('http://proxy_pool_url/get').text.strip()
     options = webdriver.ChromeOptions()
-    options.add_argument('--proxy-server={}'.format(proxy))
     driver = webdriver.Chrome(options=options)
     driver.set_window_size(300,400)
     time.sleep(5)
@@ -23,7 +19,7 @@ def func(barrier):
     print('click')
     b.click()
 
-number_of_threads = 2 #how much views you want change to your needed number
+number_of_threads = 10 #how much views you want change to your needed number
 barrier = Barrier(number_of_threads)
 threads = []
 for _ in range(number_of_threads):
